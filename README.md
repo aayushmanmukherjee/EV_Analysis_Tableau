@@ -1,4 +1,4 @@
-# **Electric Vehicle Data Analysis**
+# **Electric Vehicle Data Analysis (Tableau)**
 
 ## **Overview**
 This project analyzes electric vehicle (EV) adoption trends using a dataset containing vehicle registration information across the United States. The dataset includes vehicle characteristics such as make, model, model year, electric range, CAFV eligibility, and geographic distribution.
@@ -38,22 +38,26 @@ The dataset contains detailed electric vehicle registration data with fields suc
 ### **Key Performance Indicators (KPI)**
 - **Total Vehicles**
   - 247,285 vehicles
+  
   Observation:
     - The dataset indicates a large EV adoption base, with nearly a quarter million registered EVs.
 
 - **Average Electric Range**
   - 44.62 miles
+ 
   Observation:
     - The average electric range appears relatively low because the dataset includes both BEVs and PHEVs, and PHEVs typically have much shorter electric ranges.
 
 - **Total Battery Electric Vehicles (BEV)**
   - 197,093 vehicles (79.7%)
+    
   Observation:
     - BEVs dominate the dataset, accounting for nearly 80% of all EVs.
     - This suggests a strong shift toward fully electric vehicles instead of hybrid options.
 
 - **Total Plug-in Hybrid Electric Vehicles (PHEV)**
   - 50,192 vehicles (20.3%)
+    
   Observation:
     - PHEVs represent a smaller portion of the EV market.
     - The trend indicates that consumers increasingly prefer fully electric vehicles rather than hybrids.
